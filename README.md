@@ -54,3 +54,12 @@ Aspectos a valorar en la expresión oral:
         Tics, gestos nerviosos
     *Atención del público: * ¿Logra atraer la atención del público?
     Preguntas realizadas: ¿Responde de forma coherente?
+
+
+CALIFICACIÓN:
+
+6,5 puntos si la aplicación cumple con todas las especificaciones requeridas. Se restará 1,5 puntos por cada pantalla o necesidad no cubierta.
+1 punto por diseño y aplicación atractiva (buena presentación visual y elementos novedosos)
+1 punto por la usabilidad.
+1 punto si la aplicación usa base de datos (verificación de usuario contraseña, almacena notas...)
+0,5 puntos si usa algún javascript útil. (Verificación de campos...)
